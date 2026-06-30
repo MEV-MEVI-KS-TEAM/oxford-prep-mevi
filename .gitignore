@@ -1,0 +1,15 @@
+# Este repo es SOLO banco de contenido (data/ + entregables/ + README).
+# No debe contener la app web ni dependencias.
+node_modules/
+dist/
+build/
+index.html
+/css/
+/js/
+
+# Temporales del sistema / Office
+.DS_Store
+Thumbs.db
+~$*.docx
+~$*.xlsx
+*.tmp

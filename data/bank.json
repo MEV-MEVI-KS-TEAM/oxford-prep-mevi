@@ -1,0 +1,1781 @@
+{
+  "A1": [
+    {
+      "id": "A1-1",
+      "level": "A1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I ____ a student.\"",
+      "options": [
+        "am",
+        "is",
+        "are"
+      ],
+      "answer": "am",
+      "explanation": "Con el sujeto «I» se usa «am» (verbo to be)."
+    },
+    {
+      "id": "A1-2",
+      "level": "A1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"This is my ____.\"",
+      "options": [
+        "book",
+        "run",
+        "blue"
+      ],
+      "answer": "book",
+      "explanation": "La opción correcta es «book» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A1-3",
+      "level": "A1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They ____ happy.\"",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": "are",
+      "explanation": "Con «they» (plural) se usa «are»."
+    },
+    {
+      "id": "A1-4",
+      "level": "A1",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 1: What does the woman ask for?",
+      "options": [
+        "The time",
+        "A coffee",
+        "A taxi"
+      ],
+      "answer": "A coffee",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «A coffee». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "A1-5",
+      "level": "A1",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 2: What time does the announcement mention?",
+      "options": [
+        "10 AM",
+        "3 PM",
+        "7 PM"
+      ],
+      "answer": "3 PM",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «3 PM». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "A1-6",
+      "level": "A1",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 3: What is the man looking for?",
+      "options": [
+        "His phone",
+        "His keys",
+        "His wallet"
+      ],
+      "answer": "His wallet",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «His wallet». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "A1-7",
+      "level": "A1",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "Read the text: \"Maria has a cat. The cat is black.\" What color is the cat?",
+      "options": [
+        "White",
+        "Black",
+        "Brown"
+      ],
+      "answer": "Black",
+      "explanation": "Comprensión lectora. La respuesta correcta es «Black». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "A1-8",
+      "level": "A1",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "What is Maria's pet?",
+      "options": [
+        "A dog",
+        "A cat",
+        "A bird"
+      ],
+      "answer": "A cat",
+      "explanation": "Comprensión lectora. La respuesta correcta es «A cat». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "A1-9",
+      "level": "A1",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write 3–4 sentences about your family.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    },
+    {
+      "id": "A1-10",
+      "level": "A1",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write 3–4 sentences describing your house.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    }
+  ],
+  "A2": [
+    {
+      "id": "A2-11",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I have lived here ____ two years.\"",
+      "options": [
+        "for",
+        "since",
+        "from"
+      ],
+      "answer": "for",
+      "explanation": "«for» + periodo de tiempo (two years). «since» se usa con un punto exacto en el tiempo."
+    },
+    {
+      "id": "A2-12",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct verb: \"She ____ to school by bus.\"",
+      "options": [
+        "go",
+        "goes",
+        "going"
+      ],
+      "answer": "goes",
+      "explanation": "Tercera persona (she) en presente simple añade «-es»: goes."
+    },
+    {
+      "id": "A2-13",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They ____ dinner now.\"",
+      "options": [
+        "are cooking",
+        "cook",
+        "cooked"
+      ],
+      "answer": "are cooking",
+      "explanation": "Presente continuo (now): be + verbo-ing."
+    },
+    {
+      "id": "A2-14",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"We ____ in a small town.\"",
+      "options": [
+        "live",
+        "lives",
+        "living"
+      ],
+      "answer": "live",
+      "explanation": "La opción correcta es «live» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-15",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"He ____ his homework every afternoon.\"",
+      "options": [
+        "does",
+        "do",
+        "doing"
+      ],
+      "answer": "does",
+      "explanation": "La opción correcta es «does» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-16",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct verb: \"My friends ____ soccer on weekends.\"",
+      "options": [
+        "play",
+        "plays",
+        "playing"
+      ],
+      "answer": "play",
+      "explanation": "La opción correcta es «play» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-17",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"There ____ some apples on the table.\"",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": "are",
+      "explanation": "La opción correcta es «are» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-18",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"I ____ to visit my grandparents.\"",
+      "options": [
+        "like",
+        "likes",
+        "liking"
+      ],
+      "answer": "like",
+      "explanation": "La opción correcta es «like» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-19",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She ____ English very well.\"",
+      "options": [
+        "speaks",
+        "speak",
+        "speaking"
+      ],
+      "answer": "speaks",
+      "explanation": "La opción correcta es «speaks» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-20",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"We ____ to the beach last summer.\"",
+      "options": [
+        "went",
+        "go",
+        "going"
+      ],
+      "answer": "went",
+      "explanation": "Pasado simple irregular de «go» = went."
+    },
+    {
+      "id": "A2-21",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"He ____ a new phone yesterday.\"",
+      "options": [
+        "bought",
+        "buy",
+        "buys"
+      ],
+      "answer": "bought",
+      "explanation": "Pasado simple irregular de «buy» = bought."
+    },
+    {
+      "id": "A2-22",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They ____ TV right now.\"",
+      "options": [
+        "are watching",
+        "watch",
+        "watched"
+      ],
+      "answer": "are watching",
+      "explanation": "La opción correcta es «are watching» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-23",
+      "level": "A2",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 1: Where are the speakers?",
+      "options": [
+        "At a café",
+        "At school",
+        "At home"
+      ],
+      "answer": "At a café",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «At a café». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "A2-24",
+      "level": "A2",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 2: What is the announcement about?",
+      "options": [
+        "A meeting",
+        "A delay",
+        "A sale"
+      ],
+      "answer": "A delay",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «A delay». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "A2-25",
+      "level": "A2",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 3: What does the woman need?",
+      "options": [
+        "Directions",
+        "Help with her phone",
+        "Money"
+      ],
+      "answer": "Directions",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «Directions». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "A2-26",
+      "level": "A2",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 1: What does the man order?",
+      "options": [
+        "A sandwich",
+        "A coffee",
+        "A salad"
+      ],
+      "answer": "A coffee",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «A coffee». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "A2-27",
+      "level": "A2",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "Read the text: \"Tom works in a bank. He likes his job because he helps people.\" Where does Tom work?",
+      "options": [
+        "In a school",
+        "In a bank",
+        "In a store"
+      ],
+      "answer": "In a bank",
+      "explanation": "Comprensión lectora. La respuesta correcta es «In a bank». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "A2-28",
+      "level": "A2",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "Why does Tom like his job?",
+      "options": [
+        "He earns a lot",
+        "He helps people",
+        "He travels"
+      ],
+      "answer": "He helps people",
+      "explanation": "Comprensión lectora. La respuesta correcta es «He helps people». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "A2-29",
+      "level": "A2",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "Read the text: \"Sarah wakes up at 6 AM. She goes to work at 8 AM.\" What time does she wake up?",
+      "options": [
+        "5 AM",
+        "6 AM",
+        "7 AM"
+      ],
+      "answer": "6 AM",
+      "explanation": "Comprensión lectora. La respuesta correcta es «6 AM». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "A2-30",
+      "level": "A2",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "What time does she go to work?",
+      "options": [
+        "7 AM",
+        "8 AM",
+        "9 AM"
+      ],
+      "answer": "8 AM",
+      "explanation": "Comprensión lectora. La respuesta correcta es «8 AM». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "A2-31",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I ____ breakfast every morning.\"",
+      "options": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer": "have",
+      "explanation": "La opción correcta es «have» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-32",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They ____ in a big house.\"",
+      "options": [
+        "live",
+        "lives",
+        "lived"
+      ],
+      "answer": "live",
+      "explanation": "La opción correcta es «live» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-33",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"We ____ to music every day.\"",
+      "options": [
+        "listen",
+        "listens",
+        "listening"
+      ],
+      "answer": "listen",
+      "explanation": "La opción correcta es «listen» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-34",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"He ____ his car on Sundays.\"",
+      "options": [
+        "washes",
+        "wash",
+        "washed"
+      ],
+      "answer": "washes",
+      "explanation": "La opción correcta es «washes» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-35",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"My sister ____ very friendly.\"",
+      "options": [
+        "is",
+        "are",
+        "am"
+      ],
+      "answer": "is",
+      "explanation": "La opción correcta es «is» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-36",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"I ____ a new book.\"",
+      "options": [
+        "am reading",
+        "read",
+        "reads"
+      ],
+      "answer": "am reading",
+      "explanation": "La opción correcta es «am reading» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-37",
+      "level": "A2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"They ____ to travel next year.\"",
+      "options": [
+        "want",
+        "wants",
+        "wanting"
+      ],
+      "answer": "want",
+      "explanation": "La opción correcta es «want» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "A2-38",
+      "level": "A2",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write a short paragraph (60–80 words) about your daily routine.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    },
+    {
+      "id": "A2-39",
+      "level": "A2",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write a short email inviting a friend to an event.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    },
+    {
+      "id": "A2-40",
+      "level": "A2",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write a short description of your favorite place.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    }
+  ],
+  "B1": [
+    {
+      "id": "B1-41",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"If it rains",
+      "options": [
+        "Multiple Choice",
+        "stay",
+        "will stay",
+        "stayed"
+      ],
+      "answer": "will stay",
+      "explanation": "La opción correcta es «will stay» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-42",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct form: \"They ____ when I arrived.\"",
+      "options": [
+        "were studying",
+        "studied",
+        "are studying"
+      ],
+      "answer": "were studying",
+      "explanation": "Pasado continuo: una acción en progreso interrumpida por otra."
+    },
+    {
+      "id": "B1-43",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She has ____ finished her homework.\"",
+      "options": [
+        "already",
+        "yet",
+        "still"
+      ],
+      "answer": "already",
+      "explanation": "«already» se usa en afirmaciones de presente perfecto; «yet» en negativas/preguntas."
+    },
+    {
+      "id": "B1-44",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"I ____ to improve my English.\"",
+      "options": [
+        "want",
+        "wants",
+        "wanted"
+      ],
+      "answer": "want",
+      "explanation": "La opción correcta es «want» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-45",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They ____ in Mexico for five years.\"",
+      "options": [
+        "have lived",
+        "lived",
+        "live"
+      ],
+      "answer": "have lived",
+      "explanation": "Presente perfecto (have + participio) para acciones que continúan hasta el presente."
+    },
+    {
+      "id": "B1-46",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct verb: \"He ____ the report yesterday.\"",
+      "options": [
+        "finished",
+        "finishes",
+        "finish"
+      ],
+      "answer": "finished",
+      "explanation": "La opción correcta es «finished» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-47",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"We ____ dinner when the phone rang.\"",
+      "options": [
+        "were having",
+        "had",
+        "have"
+      ],
+      "answer": "were having",
+      "explanation": "La opción correcta es «were having» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-48",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She ____ to the gym three times a week.\"",
+      "options": [
+        "goes",
+        "go",
+        "going"
+      ],
+      "answer": "goes",
+      "explanation": "La opción correcta es «goes» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-49",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"I ____ seen that movie before.\"",
+      "options": [
+        "have",
+        "has",
+        "had"
+      ],
+      "answer": "have",
+      "explanation": "La opción correcta es «have» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-50",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They ____ to travel next summer.\"",
+      "options": [
+        "plan",
+        "plans",
+        "planning"
+      ],
+      "answer": "plan",
+      "explanation": "La opción correcta es «plan» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-51",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"He ____ his keys again.\"",
+      "options": [
+        "has lost",
+        "lost",
+        "loses"
+      ],
+      "answer": "has lost",
+      "explanation": "La opción correcta es «has lost» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-52",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"We ____ for the bus when it started to rain.\"",
+      "options": [
+        "were waiting",
+        "waited",
+        "wait"
+      ],
+      "answer": "were waiting",
+      "explanation": "La opción correcta es «were waiting» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-53",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I ____ my homework already.\"",
+      "options": [
+        "have done",
+        "do",
+        "did"
+      ],
+      "answer": "have done",
+      "explanation": "La opción correcta es «have done» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-54",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct word: \"She ____ to work by car.\"",
+      "options": [
+        "drives",
+        "drive",
+        "driving"
+      ],
+      "answer": "drives",
+      "explanation": "La opción correcta es «drives» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-55",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"They ____ the project last week.\"",
+      "options": [
+        "completed",
+        "complete",
+        "completing"
+      ],
+      "answer": "completed",
+      "explanation": "La opción correcta es «completed» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-56",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"He ____ in a bank.\"",
+      "options": [
+        "works",
+        "work",
+        "worked"
+      ],
+      "answer": "works",
+      "explanation": "La opción correcta es «works» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-57",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"We ____ to the concert tomorrow.\"",
+      "options": [
+        "are going",
+        "go",
+        "went"
+      ],
+      "answer": "are going",
+      "explanation": "La opción correcta es «are going» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-58",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"I ____ breakfast every day.\"",
+      "options": [
+        "have",
+        "has",
+        "having"
+      ],
+      "answer": "have",
+      "explanation": "La opción correcta es «have» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-59",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"They ____ a new house.\"",
+      "options": [
+        "bought",
+        "buy",
+        "buys"
+      ],
+      "answer": "bought",
+      "explanation": "Pasado simple irregular de «buy» = bought."
+    },
+    {
+      "id": "B1-60",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She ____ very fast.\"",
+      "options": [
+        "learns",
+        "learn",
+        "learning"
+      ],
+      "answer": "learns",
+      "explanation": "La opción correcta es «learns» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-61",
+      "level": "B1",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 1: What does the man order?",
+      "options": [
+        "A sandwich",
+        "A coffee",
+        "A salad"
+      ],
+      "answer": "A coffee",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «A coffee». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "B1-62",
+      "level": "B1",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 2: What is being delayed?",
+      "options": [
+        "A flight",
+        "A meeting",
+        "A class"
+      ],
+      "answer": "A flight",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «A flight». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "B1-63",
+      "level": "B1",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 3: Why is the man calling?",
+      "options": [
+        "To complain",
+        "To ask for help",
+        "To make a reservation"
+      ],
+      "answer": "To ask for help",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «To ask for help». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "B1-64",
+      "level": "B1",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 1: What is the woman asking for?",
+      "options": [
+        "Directions",
+        "The menu",
+        "The bill"
+      ],
+      "answer": "The bill",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «The bill». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "B1-65",
+      "level": "B1",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "Read the text: \"The company plans to expand next year due to increased sales.\" Why will the company expand?",
+      "options": [
+        "New management",
+        "Increased sales",
+        "More employees"
+      ],
+      "answer": "Increased sales",
+      "explanation": "Comprensión lectora. La respuesta correcta es «Increased sales». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "B1-66",
+      "level": "B1",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "What is the main idea of the paragraph?",
+      "options": [
+        "The company is closing",
+        "The company is expanding",
+        "The company is hiring"
+      ],
+      "answer": "The company is expanding",
+      "explanation": "Comprensión lectora. La respuesta correcta es «The company is expanding». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "B1-67",
+      "level": "B1",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "Read the text: \"Mark enjoys hiking because it helps him relax.\" Why does Mark enjoy hiking?",
+      "options": [
+        "It is exciting",
+        "It helps him relax",
+        "He goes with friends"
+      ],
+      "answer": "It helps him relax",
+      "explanation": "Comprensión lectora. La respuesta correcta es «It helps him relax». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "B1-68",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"The movie was interesting; ____",
+      "options": [
+        "Multiple Choice",
+        "however",
+        "therefore",
+        "although"
+      ],
+      "answer": "however",
+      "explanation": "«however» introduce contraste; equivale a «sin embargo»."
+    },
+    {
+      "id": "B1-69",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"I prefer tea ____ coffee.\"",
+      "options": [
+        "to",
+        "than",
+        "over"
+      ],
+      "answer": "to",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «to»."
+    },
+    {
+      "id": "B1-70",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"She is ____ than her sister.\"",
+      "options": [
+        "taller",
+        "tall",
+        "more tall"
+      ],
+      "answer": "taller",
+      "explanation": "Comparativo de adjetivo corto: adjetivo + «-er» + than."
+    },
+    {
+      "id": "B1-71",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They ____ the exam easily.\"",
+      "options": [
+        "passed",
+        "pass",
+        "passing"
+      ],
+      "answer": "passed",
+      "explanation": "La opción correcta es «passed» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-72",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I ____ to visit London someday.\"",
+      "options": [
+        "would like",
+        "like",
+        "want"
+      ],
+      "answer": "would like",
+      "explanation": "La opción correcta es «would like» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-73",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"He ____ his job last month.\"",
+      "options": [
+        "left",
+        "leave",
+        "leaves"
+      ],
+      "answer": "left",
+      "explanation": "La opción correcta es «left» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-74",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"We ____ dinner at a new restaurant.\"",
+      "options": [
+        "had",
+        "have",
+        "has"
+      ],
+      "answer": "had",
+      "explanation": "La opción correcta es «had» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-75",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"I ____ my phone at home.\"",
+      "options": [
+        "left",
+        "leave",
+        "leaving"
+      ],
+      "answer": "left",
+      "explanation": "La opción correcta es «left» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-76",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"They ____ to the meeting late.\"",
+      "options": [
+        "arrived",
+        "arrive",
+        "arriving"
+      ],
+      "answer": "arrived",
+      "explanation": "La opción correcta es «arrived» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-77",
+      "level": "B1",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She ____ her car every weekend.\"",
+      "options": [
+        "washes",
+        "wash",
+        "washed"
+      ],
+      "answer": "washes",
+      "explanation": "La opción correcta es «washes» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B1-78",
+      "level": "B1",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write a paragraph (100–120 words) about a memorable trip.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    },
+    {
+      "id": "B1-79",
+      "level": "B1",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write an opinion (120–150 words) about online education.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    },
+    {
+      "id": "B1-80",
+      "level": "B1",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write a short story (120–150 words) about a surprising event.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    }
+  ],
+  "B2": [
+    {
+      "id": "B2-81",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"Had I known",
+      "options": [
+        "Multiple Choice",
+        "would have left",
+        "would leave",
+        "left"
+      ],
+      "answer": "would have left",
+      "explanation": "Tercer condicional: would have + participio para situaciones hipotéticas en el pasado."
+    },
+    {
+      "id": "B2-82",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct form: \"She suggested that he ____ earlier.\"",
+      "options": [
+        "arrive",
+        "arrives",
+        "arrived"
+      ],
+      "answer": "arrive",
+      "explanation": "La opción correcta es «arrive» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-83",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"The results were surprising; ____",
+      "options": [
+        "Multiple Choice",
+        "however",
+        "therefore",
+        "although"
+      ],
+      "answer": "however",
+      "explanation": "«however» introduce contraste; equivale a «sin embargo»."
+    },
+    {
+      "id": "B2-84",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"He apologized ____ being late.\"",
+      "options": [
+        "for",
+        "about",
+        "to"
+      ],
+      "answer": "for",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «for»."
+    },
+    {
+      "id": "B2-85",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They managed ____ the task on time.\"",
+      "options": [
+        "to finish",
+        "finish",
+        "finishing"
+      ],
+      "answer": "to finish",
+      "explanation": "La opción correcta es «to finish» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-86",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I regret ____ you the truth.\"",
+      "options": [
+        "telling",
+        "tell",
+        "to tell"
+      ],
+      "answer": "telling",
+      "explanation": "La opción correcta es «telling» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-87",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She denied ____ the documents.\"",
+      "options": [
+        "taking",
+        "take",
+        "took"
+      ],
+      "answer": "taking",
+      "explanation": "La opción correcta es «taking» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-88",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct word: \"The more you practice",
+      "options": [
+        "Multiple Choice",
+        "better",
+        "best",
+        "good"
+      ],
+      "answer": "better",
+      "explanation": "La opción correcta es «better» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-89",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"He is responsible ____ the project.\"",
+      "options": [
+        "for",
+        "of",
+        "to"
+      ],
+      "answer": "for",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «for»."
+    },
+    {
+      "id": "B2-90",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"We look forward ____ from you.\"",
+      "options": [
+        "to hearing",
+        "to hear",
+        "hearing"
+      ],
+      "answer": "to hearing",
+      "explanation": "«look forward to» + verbo-ing (to es preposición, no infinitivo)."
+    },
+    {
+      "id": "B2-91",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She is capable ____ solving complex problems.\"",
+      "options": [
+        "of",
+        "to",
+        "for"
+      ],
+      "answer": "of",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «of»."
+    },
+    {
+      "id": "B2-92",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"He insisted ____ paying the bill.\"",
+      "options": [
+        "on",
+        "in",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «on»."
+    },
+    {
+      "id": "B2-93",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They accused him ____ lying.\"",
+      "options": [
+        "of",
+        "for",
+        "to"
+      ],
+      "answer": "of",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «of»."
+    },
+    {
+      "id": "B2-94",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I am used ____ early.\"",
+      "options": [
+        "to waking",
+        "to wake",
+        "waking"
+      ],
+      "answer": "to waking",
+      "explanation": "La opción correcta es «to waking» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-95",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She is interested ____ learning French.\"",
+      "options": [
+        "in",
+        "on",
+        "for"
+      ],
+      "answer": "in",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «in»."
+    },
+    {
+      "id": "B2-96",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"He succeeded ____ fixing the issue.\"",
+      "options": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answer": "in",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «in»."
+    },
+    {
+      "id": "B2-97",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They prevented him ____ entering the room.\"",
+      "options": [
+        "from",
+        "of",
+        "to"
+      ],
+      "answer": "from",
+      "explanation": "Preposición fija que acompaña al verbo/adjetivo de la oración: «from»."
+    },
+    {
+      "id": "B2-98",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I can't help ____ when I'm nervous.\"",
+      "options": [
+        "laughing",
+        "laugh",
+        "to laugh"
+      ],
+      "answer": "laughing",
+      "explanation": "La opción correcta es «laughing» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-99",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She admitted ____ the mistake.\"",
+      "options": [
+        "making",
+        "make",
+        "made"
+      ],
+      "answer": "making",
+      "explanation": "La opción correcta es «making» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-100",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"He avoided ____ the question.\"",
+      "options": [
+        "answering",
+        "answer",
+        "to answer"
+      ],
+      "answer": "answering",
+      "explanation": "La opción correcta es «answering» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-101",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"Despite the challenges",
+      "options": [
+        "Multiple Choice",
+        "was",
+        "were",
+        "is"
+      ],
+      "answer": "was",
+      "explanation": "La opción correcta es «was» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-102",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"Hardly ____ the meeting started when he arrived.\"",
+      "options": [
+        "had",
+        "has",
+        "have"
+      ],
+      "answer": "had",
+      "explanation": "La opción correcta es «had» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-103",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"No sooner had he left ____ it began to rain.\"",
+      "options": [
+        "than",
+        "when",
+        "that"
+      ],
+      "answer": "than",
+      "explanation": "La opción correcta es «than» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-104",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"Under no circumstances ____ you open this door.\"",
+      "options": [
+        "should",
+        "shall",
+        "will"
+      ],
+      "answer": "should",
+      "explanation": "La opción correcta es «should» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-105",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"Rarely ____ such a beautiful view.\"",
+      "options": [
+        "have I seen",
+        "I have seen",
+        "seen I"
+      ],
+      "answer": "have I seen",
+      "explanation": "La opción correcta es «have I seen» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-106",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"Only after the storm ____ the damage.\"",
+      "options": [
+        "was revealed",
+        "revealed",
+        "was reveal"
+      ],
+      "answer": "was revealed",
+      "explanation": "La opción correcta es «was revealed» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-107",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"Not until yesterday ____ the truth.\"",
+      "options": [
+        "did he know",
+        "he knew",
+        "has he known"
+      ],
+      "answer": "did he know",
+      "explanation": "La opción correcta es «did he know» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-108",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"She speaks English ____ to work abroad.\"",
+      "options": [
+        "well enough",
+        "good enough",
+        "enough well"
+      ],
+      "answer": "well enough",
+      "explanation": "La opción correcta es «well enough» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-109",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"He is ____ to understand the instructions.\"",
+      "options": [
+        "experienced enough",
+        "enough experienced",
+        "experience enough"
+      ],
+      "answer": "experienced enough",
+      "explanation": "La opción correcta es «experienced enough» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-110",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"The book was so interesting that I ____ it in one day.\"",
+      "options": [
+        "finished",
+        "finish",
+        "finishing"
+      ],
+      "answer": "finished",
+      "explanation": "La opción correcta es «finished» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-111",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"He works as if he ____ the boss.\"",
+      "options": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answer": "were",
+      "explanation": "La opción correcta es «were» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-112",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"If I ____ you",
+      "options": [
+        "Multiple Choice",
+        "were",
+        "was",
+        "am"
+      ],
+      "answer": "were",
+      "explanation": "Segundo condicional: «If I were you…» (subjuntivo)."
+    },
+    {
+      "id": "B2-113",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"She behaves as though she ____ everything.\"",
+      "options": [
+        "knew",
+        "knows",
+        "know"
+      ],
+      "answer": "knew",
+      "explanation": "La opción correcta es «knew» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-114",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"It's high time you ____ home.\"",
+      "options": [
+        "went",
+        "go",
+        "goes"
+      ],
+      "answer": "went",
+      "explanation": "Pasado simple irregular de «go» = went."
+    },
+    {
+      "id": "B2-115",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"I wish I ____ more time.\"",
+      "options": [
+        "had",
+        "have",
+        "has"
+      ],
+      "answer": "had",
+      "explanation": "La opción correcta es «had» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-116",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"I'd rather you ____ earlier next time.\"",
+      "options": [
+        "arrived",
+        "arrive",
+        "arrives"
+      ],
+      "answer": "arrived",
+      "explanation": "La opción correcta es «arrived» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-117",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"He would have helped if he ____ about it.\"",
+      "options": [
+        "had known",
+        "knew",
+        "knows"
+      ],
+      "answer": "had known",
+      "explanation": "La opción correcta es «had known» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-118",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"She must have ____ the wrong train.\"",
+      "options": [
+        "taken",
+        "take",
+        "took"
+      ],
+      "answer": "taken",
+      "explanation": "La opción correcta es «taken» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-119",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Select the correct option: \"They might have ____ the message.\"",
+      "options": [
+        "missed",
+        "miss",
+        "missing"
+      ],
+      "answer": "missed",
+      "explanation": "La opción correcta es «missed» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-120",
+      "level": "B2",
+      "skill": "use_of_english",
+      "type": "mcq",
+      "prompt": "Choose the correct option: \"He can't have ____ the window.\"",
+      "options": [
+        "broken",
+        "break",
+        "broke"
+      ],
+      "answer": "broken",
+      "explanation": "La opción correcta es «broken» por concordancia gramatical y uso natural del inglés."
+    },
+    {
+      "id": "B2-121",
+      "level": "B2",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 1: What is the main purpose of the conversation?",
+      "options": [
+        "To complain",
+        "To place an order",
+        "To ask for information"
+      ],
+      "answer": "To place an order",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «To place an order». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "B2-122",
+      "level": "B2",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 2: What is the key message of the announcement?",
+      "options": [
+        "Change of schedule",
+        "Emergency alert",
+        "Weather warning"
+      ],
+      "answer": "Change of schedule",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «Change of schedule». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "B2-123",
+      "level": "B2",
+      "skill": "listening",
+      "type": "mcq",
+      "prompt": "Listen to Audio 3: What problem is the caller experiencing?",
+      "options": [
+        "Lost documents",
+        "Technical issue",
+        "Payment problem"
+      ],
+      "answer": "Technical issue",
+      "explanation": "Comprensión auditiva. La respuesta correcta es «Technical issue». En el examen real escucharás el audio dos veces; toma notas de la idea principal."
+    },
+    {
+      "id": "B2-124",
+      "level": "B2",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "Read the text: \"Despite the challenges",
+      "options": [
+        "Multiple Choice",
+        "Funding",
+        "Teamwork and planning",
+        "New technology"
+      ],
+      "answer": "Teamwork and planning",
+      "explanation": "Comprensión lectora. La respuesta correcta es «Teamwork and planning». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "B2-125",
+      "level": "B2",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "What is the author's main argument?",
+      "options": [
+        "Projects are easy",
+        "Teamwork is essential",
+        "Planning is unnecessary"
+      ],
+      "answer": "Teamwork is essential",
+      "explanation": "Comprensión lectora. La respuesta correcta es «Teamwork is essential». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "B2-126",
+      "level": "B2",
+      "skill": "reading",
+      "type": "mcq",
+      "prompt": "Read the text: \"Although the company faced financial difficulties",
+      "options": [
+        "Multiple Choice",
+        "By hiring more staff",
+        "By reducing costs and improving productivity",
+        "By closing branches"
+      ],
+      "answer": "By reducing costs and improving productivity",
+      "explanation": "Comprensión lectora. La respuesta correcta es «By reducing costs and improving productivity». Localiza la información específica en el texto; no inventes datos que no aparecen."
+    },
+    {
+      "id": "B2-127",
+      "level": "B2",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write an essay (150–180 words) about the impact of technology on society.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    },
+    {
+      "id": "B2-128",
+      "level": "B2",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write a formal email requesting information about a course.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    },
+    {
+      "id": "B2-129",
+      "level": "B2",
+      "skill": "writing",
+      "type": "paragraph",
+      "prompt": "Write a short argumentative text about remote work.",
+      "options": [],
+      "answer": "",
+      "explanation": "Tarea de escritura. Revisa estructura, conectores y extensión solicitada. Un asesor evaluará coherencia, gramática y vocabulario."
+    }
+  ]
+}
