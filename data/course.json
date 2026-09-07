@@ -1,14 +1,15 @@
 {
   "meta": {
-    "title": "Prepárate para tu Examen Oficial Oxford",
-    "subtitle": "Oxford Test of English · Validez internacional · Alineado al MCER",
-    "exam": "Oxford Test of English (OTE)",
-    "intro": "Este mini curso te prepara para presentar el Oxford Test of English, el único examen de inglés certificado por la Universidad de Oxford, reconocido por más de 1,100 instituciones en el mundo y con validez de por vida. El examen evalúa cuatro módulos: Speaking, Listening, Reading y Writing. Aquí aprenderás la estructura real del examen, las estrategias por módulo y practicarás con un examen de prueba.",
+    "title": "Prepárate para tu Certificación Oxford TCC",
+    "subtitle": "The Oxford Tutorial College Certificate · Alineada al MCER · Certificación vitalicia",
+    "exam": "Certificación Oxford TCC (The Oxford Tutorial College Certificate)",
+    "intro": "Este mini curso te prepara para obtener la Certificación Oxford TCC (The Oxford Tutorial College Certificate), emitida por Oxford International Education Group, Reino Unido, y alineada al MCER. Evalúa cinco habilidades: uso del inglés, comprensión lectora, comprensión auditiva, expresión escrita y expresión oral. El proceso tiene tres etapas —diagnóstico, examen de práctica (mock) y certificación— y la certificación es vitalicia. Aquí encontrarás el contenido por nivel (A1 a B2), estrategias por habilidad y un examen de prueba.",
     "modules_overview": [
-      { "icon": "🗣️", "name": "Speaking", "time": "~15 min", "parts": "4 partes", "desc": "Entrevista, mensajes de voz, una charla y preguntas de seguimiento. Lo califica un evaluador experto." },
-      { "icon": "🎧", "name": "Listening", "time": "~30 min", "parts": "4 partes", "desc": "Adaptativo. Escuchas cada audio dos veces y eliges la opción correcta (A, B o C)." },
-      { "icon": "📖", "name": "Reading", "time": "~35 min", "parts": "4 partes", "desc": "Adaptativo. Textos cortos, emparejamiento de perfiles, insertar frases y opción múltiple." },
-      { "icon": "✍️", "name": "Writing", "time": "~45 min", "parts": "2 partes", "desc": "Un email (80–100 palabras) y un texto a elegir: ensayo, reseña o artículo (100–160 palabras)." }
+      { "icon": "🧩", "name": "Uso del inglés", "desc": "Mide tu dominio de la gramática y la estructura del idioma." },
+      { "icon": "📖", "name": "Comprensión lectora", "desc": "Mide si entiendes la idea general, los detalles y el propósito de un texto." },
+      { "icon": "🎧", "name": "Comprensión auditiva", "desc": "Mide tu comprensión global y de detalle al escuchar." },
+      { "icon": "✍️", "name": "Expresión escrita", "desc": "Mide organización, gramática, vocabulario y respuesta completa a la tarea." },
+      { "icon": "🗣️", "name": "Expresión oral", "desc": "Mide fluidez, pronunciación y organización de ideas." }
     ],
     "stages": ["Diagnóstico", "Mock (simulacro)", "Certificación"]
   },
@@ -16,33 +17,33 @@
     "use_of_english": {
       "name": "Uso del inglés (gramática)",
       "icon": "🧩",
-      "why": "Aunque el examen Oxford no tiene un módulo separado de gramática, el dominio gramatical es la base de los cuatro módulos. Una buena estructura te da puntos en Writing y Speaking, y te ayuda a entender Reading y Listening."
+      "why": "El uso del inglés es una de las habilidades que se evalúan, y además sostiene a todas las demás: una buena estructura gramatical te da puntos al escribir y al hablar, y te ayuda a entender mejor lo que lees y escuchas."
     },
     "reading": {
       "name": "Comprensión lectora (Reading)",
       "icon": "📖",
-      "why": "El módulo Reading dura hasta 35 minutos y es adaptativo: las preguntas se hacen más fáciles o difíciles según tus respuestas. Mide si entiendes la idea general, los detalles, la actitud y el propósito del autor."
+      "why": "Mide si entiendes la idea general, los detalles, la actitud y el propósito del autor."
     },
     "listening": {
       "name": "Comprensión auditiva (Listening)",
       "icon": "🎧",
-      "why": "El módulo Listening dura ~30 minutos y es adaptativo. Puedes escuchar cada audio dos veces. Mide tu comprensión global y de detalle, opiniones y significado implícito."
+      "why": "Mide tu comprensión global y de detalle, opiniones y significado implícito."
     },
     "writing": {
       "name": "Expresión escrita (Writing)",
       "icon": "✍️",
-      "why": "El módulo Writing tiene 2 tareas y dura ~45 minutos. Lo califica un evaluador. Mide organización, gramática, vocabulario y que respondas a TODO lo que pide la tarea."
+      "why": "Mide organización, gramática, vocabulario y que respondas a TODO lo que pide la tarea."
     },
     "speaking": {
       "name": "Expresión oral (Speaking)",
       "icon": "🗣️",
-      "why": "El módulo Speaking dura ~15 minutos y lo califica un evaluador. Se graba tu voz. Mide fluidez, pronunciación, organización de ideas y tu capacidad de describir, comparar y especular."
+      "why": "Mide fluidez, pronunciación, organización de ideas y tu capacidad de describir, comparar y especular."
     }
   },
   "lessons": {
     "A1": {
       "title": "A1 · Usuario Básico",
-      "goal": "Sentar las bases: presentarte, describir tu mundo y entender frases simples. Aún no presentas el Oxford oficial (empieza en A2), pero aquí construyes el cimiento.",
+      "goal": "Sentar las bases: presentarte, describir tu mundo y entender frases simples. Aquí construyes el cimiento para tu Certificación Oxford TCC.",
       "topics": ["Verbo to be", "Presente simple + auxiliar do", "Presente continuo", "WH questions", "Preposiciones básicas", "Orden de palabras"],
       "blocks": [
         {
@@ -57,7 +58,7 @@
           "title": "Escucha de rutinas y conversaciones básicas",
           "content": "En A1 el audio es lento y claro: saludos, horarios, pedir un café, preguntar la hora. **Estrategia:** antes de escuchar, lee las opciones (A, B, C). Escucha buscando solo la palabra clave de la pregunta (un objeto, una hora, un lugar).",
           "examples": ["What does the woman ask for? → A coffee", "What time does the announcement mention? → 3 PM"],
-          "tip": "Recuerda: en el examen real puedes escuchar el audio DOS veces. La primera para la idea general, la segunda para confirmar el detalle."
+          "tip": "Al practicar, escucha el audio dos veces: la primera para la idea general, la segunda para confirmar el detalle."
         },
         {
           "skill": "writing",
@@ -71,13 +72,13 @@
           "title": "Saludos y describir imágenes",
           "content": "Practica responder preguntas simples sobre ti: nombre, edad, dónde vives, qué te gusta. Para describir una imagen, di qué ves usando **There is / There are** y el presente continuo: «There is a dog. A man is running.»",
           "examples": ["My name is Ana. I am from Mexico. I like music.", "There are three people. They are happy."],
-          "tip": "Habla aunque cometas errores. La fluidez cuenta. El silencio no da puntos."
+          "tip": "Habla aunque cometas errores. La fluidez cuenta más que el silencio."
         }
       ]
     },
     "A2": {
       "title": "A2 · Usuario Básico Superior",
-      "goal": "Primer nivel certificable en Oxford. Hablar de tu rutina, experiencias pasadas, planes y opiniones simples.",
+      "goal": "Hablar de tu rutina, experiencias pasadas, planes y opiniones simples.",
       "topics": ["Preposiciones de tiempo at/on", "Modal can", "Verbo have", "Presente continuo vs futuro", "Contables/incontables", "Modal should", "Pasado de to be", "Auxiliar do"],
       "blocks": [
         {
@@ -85,7 +86,7 @@
           "title": "Pasado simple y since/for",
           "content": "El **pasado simple** describe acciones terminadas: regular (work → work**ed**) o irregular (go → **went**, buy → **bought**). Usa **for** + periodo de tiempo (for two years) y **since** + punto exacto (since 2020). Para hablar de habilidad usa **can**: «I can swim».",
           "examples": ["We went to the beach last summer.", "He bought a new phone yesterday.", "I have lived here for two years."],
-          "tip": "Memoriza una lista de los 20 verbos irregulares más comunes. Aparecen siempre."
+          "tip": "Memoriza una lista de los 20 verbos irregulares más comunes: los usarás todo el tiempo."
         },
         {
           "skill": "reading",
@@ -99,14 +100,14 @@
           "title": "Email informal y rutina (60–80 palabras)",
           "content": "Estructura de un email informal: **saludo** (Hi Tom,) → **motivo** (I'm writing to invite you...) → **detalles** (It's on Saturday at 6 PM) → **cierre** (See you soon! / Best, Ana). Usa conectores: **and, but, because**.",
           "examples": ["Hi Sara, I'm writing to invite you to my birthday party. It's on Saturday at 6 PM at my house. There will be pizza and music. Please come! Best, Ana"],
-          "tip": "Cuenta tus palabras. Si piden 60–80, escribir 30 baja tu puntaje aunque esté perfecto."
+          "tip": "Cuenta tus palabras. Si el ejercicio pide 60–80, quedarte muy corto deja la tarea incompleta."
         },
         {
           "skill": "speaking",
           "title": "Secuencia de eventos y comparaciones",
           "content": "Para narrar usa conectores de secuencia: **first, then, after that, later, finally**. Para comparar usa **-er than** (bigger than) o **more ... than** (more interesting than).",
           "examples": ["First I wake up, then I have breakfast, after that I go to work.", "My city is bigger than my town."],
-          "tip": "En la charla Oxford te dan 30 segundos para pensar. Úsalos para planear 3 ideas con conectores."
+          "tip": "Antes de hablar, tómate unos segundos para planear 3 ideas con conectores."
         }
       ]
     },
@@ -134,7 +135,7 @@
           "title": "Opinión y narración (100–150 palabras)",
           "content": "Para una **opinión**: introducción (di tu postura) → 2 razones con ejemplos → conclusión. Para una **narración**: ordena los hechos con conectores de tiempo y usa pasado simple + pasado continuo («I **was walking** when I **saw**...»).",
           "examples": ["In my opinion, online education is very useful. First, it saves time because you study from home. Second, it is cheaper. However, it needs discipline. In conclusion, I think it is a good option."],
-          "tip": "Usa párrafos. Un texto B1 bien organizado en 3 párrafos puntúa más que un bloque sin estructura."
+          "tip": "Usa párrafos. Un texto bien organizado en 3 párrafos comunica mejor que un bloque sin estructura."
         },
         {
           "skill": "speaking",
@@ -147,7 +148,7 @@
     },
     "B2": {
       "title": "B2 · Usuario Intermedio Alto",
-      "goal": "Meta del programa MEVI. Argumentar, especular, usar voz pasiva, reported speech y condicionales. Nivel objetivo para certificación Oxford fuerte.",
+      "goal": "Meta del programa MEVI. Argumentar, especular, usar voz pasiva, reported speech y condicionales. Nivel objetivo para una Certificación Oxford TCC sólida.",
       "topics": ["Inversión sujeto-verbo", "Segundo condicional", "Modal must", "Voz pasiva", "Reported speech", "Condicional 0 y 1", "Comparativos avanzados"],
       "blocks": [
         {
@@ -169,26 +170,23 @@
           "title": "Ensayo y email formal (150–180 palabras)",
           "content": "**Ensayo argumentativo:** introducción con tu tesis → párrafo a favor → párrafo en contra o segunda razón → conclusión. Usa conectores avanzados: **firstly, moreover, on the other hand, in conclusion**. **Email formal:** «Dear Sir/Madam,» → motivo → petición clara → «I look forward to your reply. Yours faithfully, [nombre]».",
           "examples": ["Technology has transformed society. Firstly, it improves communication... Moreover, it creates jobs... On the other hand, it can cause isolation... In conclusion, the benefits outweigh the risks."],
-          "tip": "En el Oxford real, la tarea 2 te deja elegir entre ensayo, reseña o artículo. Practica el formato que mejor domines."
+          "tip": "Practica los formatos de escritura —ensayo, reseña y artículo— y refuerza el que mejor domines."
         },
         {
           "skill": "speaking",
           "title": "Especular, argumentar y la charla (Talk)",
-          "content": "En la parte 3 del Speaking Oxford das una **charla** de 1 minuto eligiendo 2 opciones de fotos y explicando ventajas/desventajas. Estructura: presenta las 2 opciones → ventaja de cada una → tu preferencia con razón. Usa lenguaje de especulación: «It could...», «This would probably...», «One advantage is...».",
+          "content": "Ejercicio de práctica: da una **charla** de 1 minuto comparando 2 opciones y explicando ventajas/desventajas. Estructura: presenta las 2 opciones → ventaja de cada una → tu preferencia con razón. Usa lenguaje de especulación: «It could...», «This would probably...», «One advantage is...».",
           "examples": ["I'll talk about options A and B. Option A would be useful because... One advantage is... However, option B might be better since... Overall, I'd prefer A."],
-          "tip": "Te dan 30 segundos para planear. Elige rápido las 2 fotos que te den MÁS que decir, no las que más te gusten."
+          "tip": "Al preparar tu charla, elige rápido las 2 opciones que te den MÁS que decir, no las que más te gusten."
         }
       ]
     }
   },
   "strategies": {
-    "title": "Estrategias generales para el día del examen",
+    "title": "Estrategias generales para el día de tu certificación",
     "items": [
-      { "icon": "🧠", "title": "Reading y Listening son adaptativos", "text": "Si respondes bien, las preguntas se vuelven más difíciles (y valen más). No te asustes si suben de nivel: significa que vas bien." },
-      { "icon": "🔁", "title": "El audio se escucha dos veces", "text": "Primera vez: idea general. Segunda vez: confirma el detalle de la pregunta. Toma notas breves." },
-      { "icon": "⏱️", "title": "Cuida el tiempo", "text": "Reading: hasta 35 min. Listening: ~30 min. Writing: ~45 min. Speaking: ~15 min. No te atasques en una pregunta." },
       { "icon": "📝", "title": "Responde TODO lo que pide la tarea", "text": "En Writing y Speaking pierdes puntos si ignoras una parte de la instrucción. Subraya mentalmente cada cosa que te piden." },
-      { "icon": "🎯", "title": "No dejes nada en blanco", "text": "En opción múltiple no se penaliza el error. Si no sabes, elimina opciones y adivina." },
+      { "icon": "🎯", "title": "No dejes nada en blanco", "text": "Si no sabes, elimina opciones y elige la más probable." },
       { "icon": "🗣️", "title": "En Speaking, habla con razones", "text": "No respondas solo «Yes». Di «Yes, because...». Las respuestas largas muestran tu nivel real." }
     ]
   }

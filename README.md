@@ -1,16 +1,33 @@
 # oxford-prep-mevi · Banco de contenido
 
+> **⚠️ NOMENCLATURA** — Este contenido prepara para la **Certificación Oxford TCC
+> (The Oxford Tutorial College Certificate)** de **Oxford International Education
+> Group, Reino Unido**. NO es el Oxford Test of English de Oxford University
+> Press. Son certificaciones distintas de instituciones distintas. Nunca uses
+> "Oxford Test of English", "OTE" ni "Universidad de Oxford" en este contenido.
+
+> **⚠️ CLAIMS PROHIBIDOS** — No agregues a este contenido afirmaciones sobre la
+> mecánica del examen oficial: duraciones por módulo, número de módulos o
+> partes, si es adaptativo, cuántas veces se reproduce el audio, cómo se
+> puntúa, qué contenido "siempre aparece", ni comparaciones con Cambridge,
+> TOEFL o IELTS. Solo se documenta lo verificado: 5 habilidades (uso del
+> inglés, comprensión lectora, comprensión auditiva, expresión escrita,
+> expresión oral), alineación al MCER, proceso en 3 etapas (diagnóstico →
+> mock → certificación) y certificación vitalicia.
+
 Banco de **contenido en crudo + entregables legibles** para la sección
-**"Prepárate para tu Examen Oficial Oxford"** de la plataforma **MEVI**.
+**"Prepárate para tu Certificación Oxford TCC"** de la plataforma **MEVI**.
 
 > **Este repo NO es la app web ni la landing.** Es solo el contenido (datos +
 > documentos) para que un desarrollador —o Claude Code— lo implemente dentro de
 > MEVI en su propia plataforma. No incluye `index.html`, CSS, JS ni dependencias.
 
-El contenido cubre el **Oxford Test of English (OTE)** y se compone de dos piezas:
+El contenido cubre la **Certificación Oxford TCC (The Oxford Tutorial College
+Certificate)** y se compone de dos piezas:
 
-1. **Mini curso** — material de estudio por nivel (A1–B2): introducción, los 4
-   módulos del examen, lecciones por habilidad, ejemplos, tips y estrategias.
+1. **Mini curso** — material de estudio por nivel (A1–B2): introducción, las 5
+   habilidades de la certificación, lecciones por habilidad, ejemplos, tips y
+   estrategias.
 2. **Examen demo** — banco de **129 preguntas** de práctica con nivel, habilidad,
    tipo, opciones, respuesta correcta y explicación.
 
@@ -24,8 +41,10 @@ oxford-prep-mevi/
 │   ├── course.json   # Mini curso (estructura, lecciones A1–B2, estrategias)
 │   └── bank.json     # Examen demo (129 preguntas)
 ├── entregables/
-│   ├── Mini-curso-Oxford.docx   # course.json en Word, legible para humanos
-│   └── Examen-demo-Oxford.xlsx  # bank.json en Excel (1 hoja por nivel + "Todas")
+│   ├── Mini-curso-Oxford-TCC.docx   # course.json en Word, legible para humanos
+│   ├── Examen-demo-Oxford-TCC.xlsx  # bank.json en Excel (1 hoja por nivel + "Todas")
+│   ├── Mini-curso-Oxford.docx       # ⚠️ OBSOLETO (nomenclatura vieja) — no usar; se retira cuando Lalo confirme migración
+│   └── Examen-demo-Oxford.xlsx      # ⚠️ OBSOLETO (nomenclatura vieja) — no usar; se retira cuando Lalo confirme migración
 └── README.md
 ```
 
@@ -35,12 +54,14 @@ oxford-prep-mevi/
 |---|---|---|
 | `data/course.json` | JSON | **Fuente de verdad** del mini curso. Esto es lo que se renderiza en MEVI. |
 | `data/bank.json` | JSON | **Fuente de verdad** del examen demo (129 preguntas). Esto alimenta el quiz. |
-| `entregables/Mini-curso-Oxford.docx` | Word | Mismo contenido de `course.json` pero formateado para leer/revisar sin tocar código. |
-| `entregables/Examen-demo-Oxford.xlsx` | Excel | Mismo contenido de `bank.json` en tablas (hoja "Todas" + A1/A2/B1/B2). Útil para revisar preguntas. |
+| `entregables/Mini-curso-Oxford-TCC.docx` | Word | Mismo contenido de `course.json` pero formateado para leer/revisar sin tocar código. |
+| `entregables/Examen-demo-Oxford-TCC.xlsx` | Excel | Mismo contenido de `bank.json` en tablas (hoja "Todas" + A1/A2/B1/B2). Útil para revisar preguntas. |
 
 > Para **implementar en MEVI usa los JSON de `data/`**. Los archivos de
 > `entregables/` son la versión legible para personas (revisión de contenido),
-> no la fuente que consume el código.
+> no la fuente que consume el código. Los dos archivos sin sufijo `-TCC` son la
+> versión previa con nomenclatura incorrecta: quedan solo mientras se confirma
+> la migración y **no deben distribuirse**.
 
 ---
 
@@ -144,9 +165,9 @@ Afecta a: `B1-41`, `B1-68`, `B2-81`, `B2-83`, `B2-88`, `B2-101`, `B2-112`,
 Distribución por habilidad (informativa): `use_of_english` 92 · `listening` 14 ·
 `reading` 12 · `writing` 11. Por tipo: `mcq` 118 · `paragraph` 11.
 
-> Nota: el examen demo es mayormente *Use of English*. **Speaking no tiene
-> preguntas en el banco** porque es un módulo que se evalúa en vivo con un
-> evaluador; sí aparece como habilidad en el mini curso (`course.json`).
+> Nota: el examen demo es mayormente *Use of English*. **La expresión oral
+> (speaking) no tiene preguntas en el banco** porque no se puede evaluar con
+> opción múltiple; sí aparece como habilidad en el mini curso (`course.json`).
 
 ---
 
@@ -154,22 +175,27 @@ Distribución por habilidad (informativa): `use_of_english` 92 · `listening` 14
 
 Objeto con **4 llaves de nivel superior**: `meta`, `skills`, `lessons`, `strategies`.
 
-### `meta` — portada y estructura del examen
+### `meta` — portada y estructura de la certificación
 ```jsonc
 {
-  "title": "Prepárate para tu Examen Oficial Oxford",
-  "subtitle": "…",
-  "exam": "Oxford Test of English (OTE)",
+  "title": "Prepárate para tu Certificación Oxford TCC",
+  "subtitle": "The Oxford Tutorial College Certificate · Alineada al MCER · Certificación vitalicia",
+  "exam": "Certificación Oxford TCC (The Oxford Tutorial College Certificate)",
   "intro": "Texto introductorio del curso…",
-  "modules_overview": [               // los 4 módulos del examen
-    { "icon": "🗣️", "name": "Speaking", "time": "~15 min", "parts": "4 partes", "desc": "…" },
-    { "icon": "🎧", "name": "Listening", … },
-    { "icon": "📖", "name": "Reading", … },
-    { "icon": "✍️", "name": "Writing", … }
+  "modules_overview": [               // las 5 habilidades de la certificación
+    { "icon": "🧩", "name": "Uso del inglés", "desc": "Qué mide…" },
+    { "icon": "📖", "name": "Comprensión lectora", "desc": "…" },
+    { "icon": "🎧", "name": "Comprensión auditiva", "desc": "…" },
+    { "icon": "✍️", "name": "Expresión escrita", "desc": "…" },
+    { "icon": "🗣️", "name": "Expresión oral", "desc": "…" }
   ],
   "stages": ["Diagnóstico", "Mock (simulacro)", "Certificación"]
 }
 ```
+
+> ⚠️ **Cambio de esquema (2026-09):** los ítems de `modules_overview` ya **no
+> traen** los campos `time` ni `parts` (eran mecánica del examen y se
+> eliminaron). Si la UI de MEVI renderizaba esas columnas, hay que quitarlas.
 
 ### `skills` — las habilidades que se evalúan
 Objeto indexado por id de habilidad. Llaves: `use_of_english`, `reading`,
@@ -197,7 +223,7 @@ Objeto indexado por nivel (`A1`, `A2`, `B1`, `B2`). Cada nivel:
       "title": "Verbo to be y presente simple",
       "content": "Explicación. Usa **doble asterisco** para negritas (Markdown).",
       "examples": ["I am a student.", "They are happy.", …],
-      "tip": "Consejo accionable para el examen."
+      "tip": "Consejo accionable para el alumno."
     }
     // … más blocks (reading/listening/writing/speaking según el nivel)
   ]
@@ -206,12 +232,12 @@ Objeto indexado por nivel (`A1`, `A2`, `B1`, `B2`). Cada nivel:
 > El campo `content` (y a veces `tip`/`goal`) usa **`**negritas**` estilo Markdown**.
 > Al renderizar, conviértelo a `<strong>` o equivalente.
 
-### `strategies` — estrategias para el día del examen
+### `strategies` — estrategias generales
 ```jsonc
 {
-  "title": "Estrategias generales para el día del examen",
+  "title": "Estrategias generales para el día de tu certificación",
   "items": [
-    { "icon": "🧠", "title": "Reading y Listening son adaptativos", "text": "…" },
+    { "icon": "📝", "title": "Responde TODO lo que pide la tarea", "text": "…" },
     …
   ]
 }
@@ -231,7 +257,7 @@ Sugerencias para integrar este contenido (pensadas también para Claude Code):
 
 ### 2. Renderizar el **mini curso** por nivel
 - Pinta `meta` como portada: `title`, `subtitle`, `intro`, la tabla de
-  `modules_overview` (los 4 módulos) y el camino `stages`.
+  `modules_overview` (las 5 habilidades) y el camino `stages`.
 - Muestra `skills` como tarjetas (ícono + `name` + `why`).
 - Por cada nivel en `lessons` (A1 → A2 → B1 → B2): encabezado con `title`,
   `goal`, lista de `topics`, y luego cada `block` como una lección
@@ -270,5 +296,7 @@ for (const level of ["A1", "A2", "B1", "B2"]) {
 
 ---
 
-*Contenido para uso educativo dentro de MEVI. Oxford Test of English es una marca
-de la Universidad de Oxford; este repo es material de preparación, no un producto oficial.*
+*Contenido para uso educativo dentro de MEVI. Material de preparación para la
+Certificación Oxford TCC (The Oxford Tutorial College Certificate) de Oxford
+International Education Group, Reino Unido; no es un producto oficial de esa
+institución.*
